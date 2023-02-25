@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Navigation Drawer</string>
+
+    <!-- Application Strings -->
+    <string name="home_nav">Home</string>
+    <string name="settings_nav">Settings</string>
+    <string name="share_nav">Share</string>
+    <string name="info_nav">Info</string>
+    <string name="logout_nav">Logout</string>
+    <string name="open_nav">Open navigation drawer</string>
+    <string name="close_nav">Close navigation drawer</string>
+
+    <!-- Fragments Strings -->
+    <string name="home_fragment">Home fragment</string>
+    <string name="settings_fragment">Settings fragment</string>
+    <string name="share_fragment">Share fragment</string>
+    <string name="about_fragment">About fragment</string>
+
+
+</resources>
